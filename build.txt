@@ -1,0 +1,3 @@
+displayName = Equilibrium Mod
+author = yea
+version = 0.1
